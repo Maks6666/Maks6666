@@ -10,13 +10,13 @@
 >> ML models (coming soon)
 
 >> Data Science and analitics (coming soon)
+
+>> NLP projects with SpaCy (coming soon)
+
+>> Computer vision projects with OpenCV and CV2 (coming soon)
  
-> BackEnd codes
->> Using JavaScript
->
-> FrontEnd codes
->> Using HTML and CSS
->
+
+
 
 _______
 <!--
