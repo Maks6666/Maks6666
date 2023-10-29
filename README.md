@@ -1,17 +1,22 @@
 # Greetings!
 ## My name is Maks. I'm a student of Collage of Salo (Finland). I'm learning programmin, coding and IT-technology. What you may find from this page?
 > Python codes
-> 
+>> Python basics
+>> Telegramm bots (also with SQL)
+
+>> Neural networks (using Jupiter notebokk)
+
+>> ML models (coming soon)
+
+>> Data Science and analitics (coming soon)
+ 
 > BackEnd codes
 >> Using JavaScript
 >
 > FrontEnd codes
 >> Using HTML and CSS
 >
-> Some games on different engines
->> Unity
->> 
->> Pygame
+
 _______
 <!--
 
