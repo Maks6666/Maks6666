@@ -3,7 +3,7 @@
 > Python codes
 >> Python basics
 
->> Telegramm bots (also with SQL)
+>> Telegramm bots (also with SQL database)
 
 >> Neural networks (using Jupiter notebokk)
 
