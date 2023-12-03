@@ -1,5 +1,5 @@
 # Greetings!
-## My name is Maks. I'm a student of Collage of Salo (Finland). I'm learning programmin, coding and IT-technology. What you may find from this page?
+## My name is Maks. I'm a student of Collage of Salo (Finland). I'm learning programming, coding and IT-technology. What you may find from this page?
 > Python codes
 >> Python basics
 
