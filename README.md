@@ -9,7 +9,7 @@
 
 >> ML models (coming soon)
 
->> Data Science and analitics (coming soon)
+>> Data Science and analitics 
 
 >> NLP projects with SpaCy (coming soon)
 
