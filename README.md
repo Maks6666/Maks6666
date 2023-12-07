@@ -7,7 +7,7 @@
 
 >> Neural networks (using Jupiter notebokk)
 
->> ML models (coming soon)
+>> ML models 
 
 >> Data Science and analitics 
 
