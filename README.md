@@ -5,7 +5,7 @@
 
 >> Telegramm bots (also with SQL database)
 
->> Neural networks (using Jupiter notebokk)
+>> Neural networks (using Jupiter notebook)
 
 >> ML models 
 
