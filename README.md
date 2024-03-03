@@ -13,7 +13,7 @@
 
 >> NLP projects with SpaCy/NLTK (coming soon)
 
->> Computer vision projects with OpenCV and CV2 (coming soon)
+>> Computer vision projects with OpenCV and CV2
  
 
 
