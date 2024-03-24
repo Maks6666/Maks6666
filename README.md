@@ -1,21 +1,32 @@
-# Greetings!
-## My name is Maks. I'm a student of Collage of Salo (Finland). I'm learning programming, coding and IT-technology. What you may find from this page?
-> Python codes
->> Python basics
+# 👋 Greetings from Maks! 🌟
 
->> Telegramm bots (also with SQL database)
+Hey there! I'm Maks, a passionate student from the College of Salo, Finland, diving deep into the world of programming, coding, and IT technology. Here's what you can expect to find on my page:
 
->> Neural networks (using Jupiter notebook)
+## 💻 Python Codes
+Explore a collection of Python scripts covering a variety of topics, from the basics to more advanced concepts.
 
->> ML models 
+## 🤖 Telegram Bots
+Discover my projects involving Telegram bots, including those integrated with SQL databases for enhanced functionality and data management.
 
->> Data Science and analitics 
+## 🧠 Neural Networks
+Dive into Jupyter notebooks where I experiment with neural networks, exploring their applications and implementations.
 
->> NLP projects with SpaCy/NLTK (coming soon)
+## 🤖 ML Models
+Explore my machine learning models, ranging from simple regression to complex classification algorithms.
 
->> Computer vision projects with OpenCV and CV2
- 
+## 📊 Data Science and Analytics
+Learn about my data science projects, where I analyze datasets and derive valuable insights using Python's data manipulation and visualization libraries.
 
+## 📝 NLP Projects
+Stay tuned for upcoming natural language processing (NLP) projects leveraging libraries like SpaCy and NLTK for text analysis and processing.
+
+## 👁️ Computer Vision Projects
+Explore my computer vision projects powered by OpenCV and CV2, where I develop applications for image recognition and processing.
+
+Thanks for visiting! Enjoy exploring my projects! 🚀
+
+
+  
 
 
 _______
