@@ -1,6 +1,6 @@
 # 👋 Greetings from Maks! 🌟
 
-Hey there! I'm Maks, a passionate student from the College of Salo, Finland, diving deep into the world of programming, coding, and IT technology. Here's what you can expect to find on my page:
+Hey there! I'm Maks, a passionate student from the Turku University of Applied Sciences, Finland, diving deep into the world of programming, coding, and IT technology. Here's what you can expect to find on my page:
 
 ## 💻 Python Codes
 Explore a collection of Python scripts covering a variety of topics, from the basics to more advanced concepts.
